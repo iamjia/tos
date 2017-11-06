@@ -1,6 +1,4 @@
-{
-    "code":200,
-     "data": [
+[
         {
             "tosLevelSummaryId":565,
             "levelListName":"生命力溢滿之戰",
@@ -1046,4 +1044,3 @@
             "helpHighImgUrl":null
         }
     ]
-}
