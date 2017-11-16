@@ -2,53 +2,8 @@
     "code":200,
      data: [
         {
-            "tosLevelSummaryId":565,
-            "levelListName":"生命力溢滿之戰",
-            "bossNum":"850",
-            "levelName":"生命力溢滿之戰",
-            "levelDesc":"特別任務",
-            "onlineTime":"2017-11-05 20:00:00.0",
-            "offlineTime":"2017-11-13 00:00:00.0",
-            "eventStartTime":"2017-11-06 00:00:00.0",
-            "eventEndTime":"2017-11-13 00:00:00.0",
-            "tosLevelEvents":[
-                {
-                    "tosLevelEventId":6991,
-                    "levelLvDesc":"體力 30 回合 4",
-                    "roundName":"第 1 回合",
-                    "roundExtraDesc":"(隨機出現)",
-                    "monsterNum":"280,281,282,283,284",
-                    "monsterDesc":"HP 100 傷害 100 防禦 10 CD2,HP 100 傷害 100 防禦 10 CD2,HP 100 傷害 100 防禦 10 CD2,HP 100 傷害 100 防禦 10 CD2,HP 100 傷害 100 防禦 10 CD2",
-                    "monsterExtraNum":null
-                },
-                {
-                    "tosLevelEventId":6992,
-                    "levelLvDesc":"體力 30 回合 4",
-                    "roundName":"第 2 回合",
-                    "roundExtraDesc":"",
-                    "monsterNum":"578",
-                    "monsterDesc":"HP 100 傷害 100 防禦 10 CD1",
-                    "monsterExtraNum":null
-                },
-                {
-                    "tosLevelEventId":6993,
-                    "levelLvDesc":"體力 30 回合 4",
-                    "roundName":"第 3 回合",
-                    "roundExtraDesc":"",
-                    "monsterNum":"1611,1601",
-                    "monsterDesc":"HP 100 傷害 100 防禦 10 CD1(首回合會將召喚師所有主動技能 CD 變 0),HP 100 傷害 100 防禦 10 CD1(首回合敵人會將龍脈儀存滿)",
-                    "monsterExtraNum":null
-                },
-                {
-                    "tosLevelEventId":6994,
-                    "levelLvDesc":"體力 30 回合 4",
-                    "roundName":"第 4 回合",
-                    "roundExtraDesc":"",
-                    "monsterNum":"850",
-                    "monsterDesc":"HP 1000 傷害 1500 防禦 2000 CD1(溢補盾)",
-                    "monsterExtraNum":null
-                }
-            ],
+            "cardId":1623,
+            "cardName":"香甜杀意 ‧ 诺亚",
             "helpImgUrl":"https:\/\/i.imgur.com\/UInSuY0.jpg",
             "helpHighImgUrl":"https:\/\/i.imgur.com\/hNtqCG2.jpg"
         }
