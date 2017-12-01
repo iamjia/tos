@@ -2,149 +2,1172 @@
     "code": 200,
     "data": 
 [
-    {"tosLevelSummaryId":523,"levelListName":"三教頂峰","bossNum":"1514","levelName":"三尺秋水塵不染 天下無雙","levelDesc":"全新任務","onlineTime":"2017-11-27 00:00:00.0","offlineTime":"2017-12-19 00:00:00.0","eventStartTime":"2017-12-01 00:00:00.0","eventEndTime":"2017-12-19 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6613,"levelLvDesc":"初級 體力 10 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1514","monsterDesc":"HP 285520 傷害 2092 防禦 2490 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6614,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1041","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6615,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1514","monsterDesc":"HP 1057510 傷害 4193 防禦 2490 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6616,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1191","monsterDesc":"HP 2808970 傷害 4128 防禦 5620 CD2(越攻越強)","monsterExtraNum":null},
-            {"tosLevelEventId":6617,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1041","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6618,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1514","monsterDesc":"HP 3916690 傷害 7751 防禦 7490 CD1無(1658)","monsterExtraNum":null},
-            {"tosLevelEventId":6619,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1191","monsterDesc":"HP 4192490 傷害 6025 防禦 5620 CD2( [越攻越強][若受到非強化符石的攻擊 [包括主動技]，敵人回復相等於該攻擊傷害的血量])","monsterExtraNum":null},
-            {"tosLevelEventId":6620,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1041","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6621,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1514","monsterDesc":"HP 5845810 傷害 11569 防禦 7490 CD1(召喚師需要累積消除 15 粒水符石，才會對敵人造成攻擊傷害。 當受到敵人攻擊後，敵人會隨機鎖定場上 4 粒符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 10% [發動龍刻脈動會視作消除場上的鎖定符石])","monsterExtraNum":null},
-            {"tosLevelEventId":6622,"levelLvDesc":"菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1191","monsterDesc":"HP 6257460 傷害 8962 防禦 5620 CD2( [越攻越強][若受到非強化符石的攻擊 [包括主動技]，敵人回復相等於該攻擊傷害的血量])","monsterExtraNum":null},
-            {"tosLevelEventId":6623,"levelLvDesc":"菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1041","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6624,"levelLvDesc":"菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1514","monsterDesc":"HP 8725100 傷害 16268 防禦 7490 CD1(召喚師需要累積消除 15 粒水符石，才會對敵人造成攻擊傷害。 當受到敵人攻擊後，敵人會隨機鎖定場上 4 粒符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 10% [發動龍刻脈動會視作消除場上的鎖定符石])","monsterExtraNum":null}
-        ],"helpImgUrl":"http:\/\/i.imgur.com\/Vz0w2Ay.jpg","helpHighImgUrl":"http:\/\/i.imgur.com\/8UXLQeA.jpg"},
-    {"tosLevelSummaryId":527,"levelListName":"上古七星之主","bossNum":"1517","levelName":"上古七星之主","levelDesc":"地獄級關卡","onlineTime":"2017-11-27 00:00:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-12-01 22:00:00.0","eventEndTime":"2017-12-04 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6630,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 1 回合","roundExtraDesc":"","monsterNum":"1504,1504,1504","monsterDesc":"HP 2356370 傷害 16273 防禦 730 進場CD4 固定CD3,HP 2356370 傷害 16273 防禦 730 進場CD2 固定CD3,HP 2356370 傷害 16273 防禦 730 CD3","monsterExtraNum":null},
-            {"tosLevelEventId":6631,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"238","monsterDesc":"HP 4621250 傷害 14731 防禦 3820 CD2(突擊 \u2027 攻後雙重電擊 \u2027 復活變強)","monsterExtraNum":null},
-            {"tosLevelEventId":6632,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"979","monsterDesc":"HP 11965890 傷害 9030 防禦 7690 CD1(消除心符石的連擊 [Combo] 會令全隊的攻擊無效，消除的心符石連擊 [Combo] 愈多，敵人的連擊次數愈多。連擊 [Combo] 只計算首批消除的符石。每回合移動符石前，敵人會電擊 3 粒心符石；如有符石被電擊而未消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6633,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1184,1184","monsterDesc":"[第一條血]HP 3071750 傷害 100 防禦 9170 CD1(強化光暗盾 \u2027 扣血90%),[第二條血]HP 18316570 傷害  16095 防禦 780000 CD1([附加技能清除重置][2秒轉珠])","monsterExtraNum":null},
-            {"tosLevelEventId":6634,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1319","monsterDesc":"HP 7543260 傷害 15958 防禦 5620 CD2(敵人會在 CD 2 時射擊一直行的符石，並在 CD 1 時射擊一橫行的符石，被射擊的符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6635,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1517,1517","monsterDesc":"[第一條血]HP 14241430 傷害 17563 防禦 19320 CD1(妖龍剋制200% \u2027 首回光電擊 \u2027 無法控制),[第二條血]HP 43965960 傷害  28342 防禦 19320 CD1( 附加消除 \u2027 強化盾 \u2027 非強化傷害吸收 \u2027 無視減傷)","monsterExtraNum":null}
-        ],"helpImgUrl":"https:\/\/i.imgur.com\/o7QJsB1.jpg","helpHighImgUrl":"https:\/\/i.imgur.com\/0XX28CA.jpg"},
-    {"tosLevelSummaryId":529,"levelListName":"疏樓更迭 龍麟不減風采","bossNum":"1515","levelName":"疏樓更迭 龍麟不減風采","levelDesc":"高級-通關Clear 魔法石 1 顆","onlineTime":"2017-11-27 00:00:00.0","offlineTime":"2017-12-19 00:00:00.0","eventStartTime":"2017-12-01 00:00:00.0","eventEndTime":"2017-12-19 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6648,"levelLvDesc":"初級 體力 10 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1515","monsterDesc":"HP 281930 傷害 2146 防禦 2320 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6649,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1042","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6650,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1515","monsterDesc":"HP 1044230 傷害 4248 防禦 2320 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6651,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1224","monsterDesc":"HP 2332250 傷害 7161 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])","monsterExtraNum":null},
-            {"tosLevelEventId":6652,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1042","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6653,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1515","monsterDesc":"HP 3867480 傷害 7823 防禦 7320 CD1無(1662)","monsterExtraNum":null},
-            {"tosLevelEventId":6654,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1224","monsterDesc":"HP 3677980 傷害 10688 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])","monsterExtraNum":null},
-            {"tosLevelEventId":6655,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1042","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6656,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1515","monsterDesc":"HP 5772370 傷害 11731 防禦 7320 CD1(累積15+火符石盾 \u2027 雙重燃燒10%)","monsterExtraNum":null},
-            {"tosLevelEventId":6657,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1224","monsterDesc":"HP 5486540 傷害 15953 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])","monsterExtraNum":null},
-            {"tosLevelEventId":6658,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1042","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6659,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1515","monsterDesc":"HP 8615480 傷害 16315 防禦 7320 CD1(累積15+火符石盾 \u2027 雙重燃燒10%)","monsterExtraNum":null}
-        ],"helpImgUrl":"http:\/\/i.imgur.com\/uoH6Rb3.jpg","helpHighImgUrl":"http:\/\/i.imgur.com\/Z7aFuH4.jpg"},
-    {"tosLevelSummaryId":531,"levelListName":"無法觸摸的冷豔","bossNum":"1519","levelName":"無法觸摸的冷豔","levelDesc":"地獄級關卡","onlineTime":"2017-11-27 00:00:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-12-01 22:00:00.0","eventEndTime":"2017-12-04 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6663,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 1 回合","roundExtraDesc":"","monsterNum":"1505,1505,1505","monsterDesc":"HP 1769520 傷害 10433 防禦 690 CD2,HP 1769520 傷害 10433 防禦 690 進場CD3 固定CD2(首回合敵人會將龍脈儀存滿),HP 1769520 傷害 10433 防禦 690 CD2","monsterExtraNum":null},
-            {"tosLevelEventId":6664,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"1099","monsterDesc":"HP 5135870 傷害 9862 防禦 3370 CD1(每回合以指定位置 [綠的漩渦] 的符石開始轉珠及在指定位置 [紅的漩渦] 結束轉珠，才會發動攻擊和回復)","monsterExtraNum":null},
-            {"tosLevelEventId":6665,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"1130","monsterDesc":"HP 10837240 傷害 39127 防禦 8130 CD3([強化符石盾][敵人死亡後，所有符石轉化為隱藏符石])","monsterExtraNum":null},
-            {"tosLevelEventId":6666,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1513,1513","monsterDesc":"[第一條血]HP 2982380 傷害 14178 防禦 13490 進場CD3 固定CD1(首回合敵人會永久封鎖所有成員的主動技能。召喚師需要累積消除 20 粒或以上、與敵人屬性相剋的符石 [不受轉換屬性技能影響]，才會對敵人造成攻擊傷害。如果達成上述條件，敵人會在 CD 0 時重置符石數目；反之，CD 0 時敵人會發動攻擊。敵人會無視所有控制技能),[第二條血]HP 9026370 傷害  7825 防禦 13490 CD1(首回合敵人會電擊場上所有光符石；如有符石被電擊而未消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石。敵人會在 1 回合內連續攻擊 2 次)","monsterExtraNum":null},
-            {"tosLevelEventId":6667,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1245","monsterDesc":"HP 11321980 傷害 12796 防禦 9720 CD1(首回合敵人會封鎖召喚師的神族成員的主動技能，召喚師隊伍有神族成員時，敵人攻擊力提升)","monsterExtraNum":null},
-            {"tosLevelEventId":6668,"levelLvDesc":"體力 50 回合 6 經驗 5000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1519,1519","monsterDesc":"[第一條血]HP 3016540 傷害 10100 防禦 18740 CD1((98回3秒轉珠) \u2027 首消隨機Combo追擊盾 \u2027 轉),[第二條血]HP 37671860 傷害  20956 防禦 18740 CD1(魔族禁錮 \u2027 魔族剋制 \u2027 攻 \u2027 同屬防禦90% \u2027 半血下回隱藏圍城)","monsterExtraNum":null}
-        ],"helpImgUrl":"https:\/\/i.imgur.com\/vpJXHaI.jpg","helpHighImgUrl":"https:\/\/i.imgur.com\/Jse0SdG.jpg"},
-    {"tosLevelSummaryId":532,"levelListName":"殺生為護生 斬業非斬","bossNum":"1516","levelName":"殺生為護生 斬業非斬","levelDesc":"高級-通關Clear 魔法石 1 顆","onlineTime":"2017-11-27 00:00:00.0","offlineTime":"2017-12-19 00:00:00.0","eventStartTime":"2017-12-01 00:00:00.0","eventEndTime":"2017-12-19 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6669,"levelLvDesc":"初級 體力 10 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1516","monsterDesc":"HP 302720 傷害 2037 防禦 2890 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6670,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1043","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6671,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1516","monsterDesc":"HP 1137240 傷害 4018 防禦 2890 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6672,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1323","monsterDesc":"HP 2851390 傷害 5331 防禦 6140 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會反擊自身 100% 攻擊傷害)","monsterExtraNum":null},
-            {"tosLevelEventId":6673,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1043","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6674,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1516","monsterDesc":"HP 4052590 傷害 6296 防禦 7890 CD1(累積10+木符石盾 \u2027 攻後回復減少20% \u2027 回復遞減)","monsterExtraNum":null},
-            {"tosLevelEventId":6675,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1323","monsterDesc":"HP 4255810 傷害 7956 防禦 6140 CD2(無視減傷 \u2027 強化盾 \u2027 反擊100% \u2027 雙重風化3000 \u2027 先)","monsterExtraNum":null},
-            {"tosLevelEventId":6676,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1043","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6677,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1516","monsterDesc":"HP 6197960 傷害 9398 防禦 7890 CD1(累積15+木符石盾 \u2027 攻後回復減少20% \u2027 回復遞減)","monsterExtraNum":null},
-            {"tosLevelEventId":6678,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1323","monsterDesc":"HP 6351970 傷害 11876 防禦 6140 CD2(無視減傷 \u2027 強化盾 \u2027 反擊100% \u2027 雙重風化3000 \u2027 先)","monsterExtraNum":null},
-            {"tosLevelEventId":6679,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1043","monsterDesc":"HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)","monsterExtraNum":null},
-            {"tosLevelEventId":6680,"levelLvDesc":"菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1516","monsterDesc":"HP 9074180 傷害 14027 防禦 7890 CD1(累積15+木符石盾 \u2027 攻後回復減少20% \u2027 回復遞減)","monsterExtraNum":null}
-        ],"helpImgUrl":"http:\/\/i.imgur.com\/5a9gZIK.jpg","helpHighImgUrl":"http:\/\/i.imgur.com\/pBYRK5l.jpg"},
-    {"tosLevelSummaryId":572,"levelListName":"氣勢磅礡的刺雨","bossNum":"1622","levelName":"氣勢磅礡的刺雨","levelDesc":"特別挑戰","onlineTime":"2017-11-26 20:00:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-11-27 00:00:00.0","eventEndTime":"2017-12-05 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":7031,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 1 回合","roundExtraDesc":"","monsterNum":"67,71,67","monsterDesc":"HP 107580 傷害 4785 防禦 820 進場CD3 固定CD2(4Combo盾\u2027首消),HP 116770 傷害 4750 防禦 730 CD2(首回合會將召喚師所有主動技能 CD 變 0),HP 107580 傷害 4785 防禦 820 進場CD3 固定CD2(4Combo盾\u2027首消)","monsterExtraNum":null},
-            {"tosLevelEventId":7032,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"1612","monsterDesc":"HP 899340 傷害 5691 防禦 4910 CD1(隨機Combo盾\u2027首消)","monsterExtraNum":null},
-            {"tosLevelEventId":7033,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"336,334","monsterDesc":"HP 437830 傷害 4547 防禦 2360 CD1(雙體共生),HP 423380 傷害 4558 防禦 2430 CD1(雙體共生)","monsterExtraNum":null},
-            {"tosLevelEventId":7034,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1602,1602","monsterDesc":"[第一條血]HP 2429070 傷害 8245 防禦 7250 CD1(消除水屬性的連擊 [Combo] 會令全隊的攻擊無效，消除的水屬性連擊 [Combo] 愈多，敵人的連擊次數愈多。連擊 [Combo] 只計算首批消除的符石),[第二條血]HP 3495550 傷害  4895 防禦 7250 CD1(首回合敵人會先制把其中一種符石轉化為水符石。 當首次受到敵人攻擊時，場上隨機一橫行的符石會轉化為水符石；第二次受到敵人 攻擊時，場上隨機一直行的符石會轉化為水符石。以上攻擊循環周而復始。 敵人生命力愈低時，連擊次數愈多)","monsterExtraNum":null},
-            {"tosLevelEventId":7035,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1343","monsterDesc":"HP 2708980 傷害 12306 防禦 5960 CD2(首回合鎖定所有符石，其後每回合鎖定心符石；鎖定符石未被消除，敵人回復相等該回合所造成的屬性傷害)","monsterExtraNum":null},
-            {"tosLevelEventId":7036,"levelLvDesc":"入門級 體力 30 回合 6 經驗 1500","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1622,1622","monsterDesc":"[第一條血]HP 2473470 傷害 18739 防禦 3890 CD3(敵人會令火屬性以外的攻擊傷害減少至 25%。敵人只會受到強化符石的攻擊傷害，若受到非強化符石的攻擊，敵人會反擊自身 25% 攻擊傷害。當受到敵人攻擊時，3 回合內每移動 1 步，對召喚師造成 500 點傷害),[第二條血]HP 4255220 傷害  100 防禦 1000000 CD1(首回合敵人發動攻擊時會扣除召喚師 25% 生命力；敵人攻擊次數愈多時，攻擊力會持續提升)","monsterExtraNum":null},
-            {"tosLevelEventId":7037,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 1 回合","roundExtraDesc":"","monsterNum":"67,71,67","monsterDesc":"HP 160580 傷害 7142 防禦 820 進場CD3 固定CD2(5Combo盾\u2027首消),HP 174290 傷害 7090 防禦 730 CD2(首回合會將所有成員技能CD及累積戰鬥回合數重置),HP 160580 傷害 7142 防禦 820 進場CD3 固定CD2(5Combo盾\u2027首消)","monsterExtraNum":null},
-            {"tosLevelEventId":7038,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"1612","monsterDesc":"HP 1342310 傷害 8495 防禦 4910 CD1([98回3秒轉珠] \u2027 [首消隨機Combo追擊盾 \u2027 轉])","monsterExtraNum":null},
-            {"tosLevelEventId":7039,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"336,334","monsterDesc":"HP 653480 傷害 6787 防禦 2360 CD1(雙體共生),HP 631920 傷害 6803 防禦 2430 CD1(雙體共生)","monsterExtraNum":null},
-            {"tosLevelEventId":7040,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1602,1602","monsterDesc":"[第一條血]HP 3625490 傷害 12307 防禦 7250 CD1(敵轉水 \u2027 隨機轉水 \u2027 首消水追擊零化 \u2027 無法控制),[第二條血]HP 5217250 傷害  7306 防禦 7250 CD1(首回合敵人會先制把其中一種符石轉化為水符石。 當首次受到敵人攻擊時，場上隨機一橫行的符石會轉化為水符石；第二次受到敵人 攻擊時，場上隨機一直行的符石會轉化為水符石。以上攻擊循環周而復始。 敵人生命力愈低時，連擊次數愈多)","monsterExtraNum":null},
-            {"tosLevelEventId":7041,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1343","monsterDesc":"HP 4043260 傷害 18368 防禦 5960 CD2(敵人會無視所有減傷效果和意志技能。 首回合敵人會鎖定所有符石，其後每回合會鎖定場上的心符石；如有鎖定的符石未 被消除時，敵人回復相等於該回合召喚師所造成的傷害的血量)","monsterExtraNum":null},
-            {"tosLevelEventId":7042,"levelLvDesc":"戰慄級 體力 30 回合 6 經驗 5000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1622,1622","monsterDesc":"[第一條血]HP 3691750 傷害 27970 防禦 3890 CD3(敵人會令火屬性以外的攻擊傷害減少至 5%。敵人只會受到強化符石的攻擊傷害，若受到非強化符石的攻擊，敵人會反擊自身 25% 攻擊傷害。當受到敵人攻擊時，3 回合內每移動 1 步，對召喚師造成 1000 點傷害),[第二條血]HP 6351080 傷害  100 防禦 10000000 CD1(每回合敵人發動攻擊時會扣除召喚師 100% 生命力 [無視所有減傷效果和意志技能])","monsterExtraNum":null}
-        ],"helpImgUrl":"https:\/\/i.imgur.com\/zaJynz1.jpg","helpHighImgUrl":"https:\/\/i.imgur.com\/xDy6DO5.jpg"},
-    {"tosLevelSummaryId":569,"levelListName":"秋風裡破謎三十","bossNum":"1602","levelName":"秋風裡破謎三十","levelDesc":"特別挑戰","onlineTime":"2017-11-19 20:30:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-11-20 00:00:00.0","eventEndTime":"2017-12-03 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":7017,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 1 回合","roundExtraDesc":"(隨機出現2隻)","monsterNum":"256,257,258,259,260","monsterDesc":"HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8","monsterExtraNum":null},
-            {"tosLevelEventId":7018,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"1341","monsterDesc":"HP 1240980 傷害 6742 防禦 1590 CD2(2秒轉珠)","monsterExtraNum":null},
-            {"tosLevelEventId":7019,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"337,336","monsterDesc":"HP 830270 傷害 6013 防禦 830 進場CD1 固定CD2(當首次受到攻擊時，隨機一直行轉化為光符石；第二次受到攻擊時，隨機一橫行轉化為光符石。周而復始),HP 831950 傷害 5944 防禦 780 CD2(首次受到攻擊時，一橫行轉木，二次受到攻擊時，一直行轉木，周而復始)","monsterExtraNum":null},
-            {"tosLevelEventId":7020,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1610","monsterDesc":"HP 2792640 傷害 8986 防禦 2560 CD2(每回合以指定位置 [綠的漩渦] 的符石開始轉珠及在指定位置 [紅的漩渦] 結束轉珠，才會發動攻擊和回復)","monsterExtraNum":null},
-            {"tosLevelEventId":7021,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1612","monsterDesc":"HP 1831460 傷害 5637 防禦 2840 CD1(隨機Combo盾\u2027首消)","monsterExtraNum":null},
-            {"tosLevelEventId":7022,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1608","monsterDesc":"HP 2019730 傷害 2624 防禦 2290 CD1(越攻越強)","monsterExtraNum":null},
-            {"tosLevelEventId":7023,"levelLvDesc":"體力 15 回合 7 經驗 1500","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"1602","monsterDesc":"HP 4359210 傷害 6046 防禦 3870 CD1(敵轉水 \u2027 隨機轉水 \u2027 禁消心 \u2027 首消水追擊零化)","monsterExtraNum":null}
-        ],"helpImgUrl":"https:\/\/i.imgur.com\/MqfjWH1.jpg","helpHighImgUrl":"https:\/\/i.imgur.com\/ON5p81s.jpg"},
-    {"tosLevelSummaryId":570,"levelListName":"對愛麗絲的執著","bossNum":"1599","levelName":"對愛麗絲的執著","levelDesc":"高級-通關Clear 魔法石 1 顆","onlineTime":"2017-11-19 20:00:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-11-20 00:00:00.0","eventEndTime":"2017-12-04 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":7005,"levelLvDesc":"初級 體力 10 回合 5","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"1599","monsterDesc":"HP 703502 傷害 2005 防禦 7990 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":7006,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"687","monsterDesc":"HP 390280 傷害 5143 防禦 6240 CD2","monsterExtraNum":null},
-            {"tosLevelEventId":7007,"levelLvDesc":"中級 體力 20 回合 6","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1599","monsterDesc":"HP 781310 傷害 3486 防禦 7990 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":7008,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1320","monsterDesc":"HP 1960760 傷害 3584 防禦 7360 CD1(攻後即時雙重隱藏)","monsterExtraNum":null},
-            {"tosLevelEventId":7009,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"687","monsterDesc":"HP 2556610 傷害 3878 防禦 6240 CD2(越戰越強\u2027銀)","monsterExtraNum":null},
-            {"tosLevelEventId":7010,"levelLvDesc":"高級 體力 30 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1599","monsterDesc":"HP 3708570 傷害 6696 防禦 7990 CD1(光暗盾)","monsterExtraNum":null},
-            {"tosLevelEventId":7011,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1320","monsterDesc":"HP 2926510 傷害 5349 防禦 7360 CD1(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)","monsterExtraNum":null},
-            {"tosLevelEventId":7012,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"687","monsterDesc":"HP 3815830 傷害 5789 防禦 6240 CD2(越戰越強\u2027金)","monsterExtraNum":null},
-            {"tosLevelEventId":7013,"levelLvDesc":"Extra 體力 40 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1599","monsterDesc":"HP 5535180 傷害 9994 防禦 7990 CD1(敵人會將移動符石時所觸碰的符石轉化為隱藏符石。同時消除光符石及暗符石才會對敵人造成攻擊傷害)","monsterExtraNum":null},
-            {"tosLevelEventId":7014,"levelLvDesc":"菁英級 體力 50 回合 8","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1320","monsterDesc":"HP 4367930 傷害 7985 防禦 7360 CD1(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)","monsterExtraNum":null},
-            {"tosLevelEventId":7015,"levelLvDesc":"菁英級 體力 50 回合 8","roundName":"第 7 回合","roundExtraDesc":"","monsterNum":"687","monsterDesc":"HP 5695280 傷害 8641 防禦 6240 CD2(越戰越強\u2027金)","monsterExtraNum":null},
-            {"tosLevelEventId":7016,"levelLvDesc":"菁英級 體力 50 回合 8","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1599","monsterDesc":"HP 8261470 傷害 14917 防禦 7990 CD1(敵人會持續將移動符石時所觸碰的符石轉化為隱藏符石。同時消除光符石及暗符石才會對敵人造成攻擊傷害)","monsterExtraNum":null}
-        ],"helpImgUrl":"https:\/\/i.imgur.com\/ielMiwe.jpg","helpHighImgUrl":"https:\/\/i.imgur.com\/1yHBQpc.jpg"},
-    {"tosLevelSummaryId":462,"levelListName":"物靈附身 \u2027 光","bossNum":"1259","levelName":"物靈附身 \u2027 光","levelDesc":"高級-通關Clear 魔法石 1 顆","onlineTime":"2017-10-30 00:00:00.0","offlineTime":"2017-12-04 00:00:00.0","eventStartTime":"2017-11-20 00:00:00.0","eventEndTime":"2017-12-04 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6072,"levelLvDesc":"初級 體力 10 回合 4 經驗 500","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1259","monsterDesc":"HP 163610 傷害 1417 防禦 4110 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6073,"levelLvDesc":"中級 體力 20 回合 6 經驗 1500","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"733","monsterDesc":"HP 381130 傷害 4482 防禦 1890 CD2","monsterExtraNum":null},
-            {"tosLevelEventId":6074,"levelLvDesc":"中級 體力 20 回合 6 經驗 1500","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1259","monsterDesc":"HP 605990 傷害 2927 防禦 4110 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6075,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"719","monsterDesc":"HP 1134450 傷害 5497 防禦 1730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)","monsterExtraNum":null},
-            {"tosLevelEventId":6076,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"724","monsterDesc":"HP 896440 傷害 3043 防禦 2560 CD1(+6Combo盾\u2027攻)","monsterExtraNum":null},
-            {"tosLevelEventId":6077,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1129","monsterDesc":"HP 1411620 傷害 6242 防禦 1890 CD2(每回合移動符石前，隨機把 2 粒符石風化，風化符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6078,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1259","monsterDesc":"HP 2244140 傷害 5453 防禦 4110 CD1(光鎖定 \u2027 消除減攻10%)","monsterExtraNum":null},
-            {"tosLevelEventId":6079,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"719","monsterDesc":"HP 1859760 傷害 8204 防禦 3730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)","monsterExtraNum":null},
-            {"tosLevelEventId":6080,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"724","monsterDesc":"HP 1469580 傷害 4542 防禦 4560 CD1(+7Combo盾[少1Combo追打1下])","monsterExtraNum":null},
-            {"tosLevelEventId":6081,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1129","monsterDesc":"HP 2324030 傷害 9317 防禦 3890 CD2([附加技能清除重置][雙重風化3000先])","monsterExtraNum":null},
-            {"tosLevelEventId":6082,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1259","monsterDesc":"HP 3679360 傷害 8941 防禦 7110 CD1(光鎖定 \u2027 消除減攻20%)","monsterExtraNum":null},
-            {"tosLevelEventId":6083,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"719","monsterDesc":"HP 3048790 傷害 12246 防禦 3730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)","monsterExtraNum":null},
-            {"tosLevelEventId":6084,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"724","monsterDesc":"HP 2409160 傷害 6780 防禦 4560 CD1(+7Combo盾[少1Combo追打1下])","monsterExtraNum":null},
-            {"tosLevelEventId":6085,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1129","monsterDesc":"HP 3793680 傷害 13907 防禦 3890 CD2([附加技能清除重置][雙重風化3000先])","monsterExtraNum":null},
-            {"tosLevelEventId":6086,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1259","monsterDesc":"HP 6031750 傷害 14658 防禦 7110 CD1(光鎖定 \u2027 消除減攻20%)","monsterExtraNum":null}
-        ],"helpImgUrl":"http:\/\/i.imgur.com\/1yBNFNp.jpg","helpHighImgUrl":"http:\/\/i.imgur.com\/dlGbDEA.jpg"},
-    {"tosLevelSummaryId":480,"levelListName":"物靈附身 \u2027 暗","bossNum":"1260","levelName":"物靈附身 \u2027 暗","levelDesc":"高級-通關Clear 魔法石 1 顆","onlineTime":"2017-10-30 00:00:00.0","offlineTime":"2017-12-11 00:00:00.0","eventStartTime":"2017-11-27 00:00:00.0","eventEndTime":"2017-12-11 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6218,"levelLvDesc":"初級 體力 10 回合 4 經驗 500","roundName":"第 4 回合","roundExtraDesc":"","monsterNum":"1260","monsterDesc":"HP 161740 傷害 1458 防禦 3810 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6219,"levelLvDesc":"中級 體力 20 回合 6 經驗 1500","roundName":"第 5 回合","roundExtraDesc":"","monsterNum":"735","monsterDesc":"HP 353050 傷害 5371 防禦 2620 進場CD3 固定CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6220,"levelLvDesc":"中級 體力 20 回合 6 經驗 1500","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1260","monsterDesc":"HP 599050 傷害 3065 防禦 3810 CD1","monsterExtraNum":null},
-            {"tosLevelEventId":6221,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"720","monsterDesc":"HP 1076930 傷害 3051 防禦 690 CD1(敵人會隨機腐蝕 1 個位置，該位置的符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6222,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1195","monsterDesc":"HP 1389850 傷害 6214 防禦 1190 CD2(超大幅隨機掉落隱藏屬性的符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6223,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1130","monsterDesc":"HP 937240 傷害 8017 防禦 2620 進場CD3 固定CD1(三屬盾)","monsterExtraNum":null},
-            {"tosLevelEventId":6224,"levelLvDesc":"高級 體力 30 回合 9 經驗 3000","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1260","monsterDesc":"HP 2218730 傷害 5517 防禦 3810 CD1(暗鎖定 \u2027 消除減攻10%)","monsterExtraNum":null},
-            {"tosLevelEventId":6225,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"720","monsterDesc":"HP 1765560 傷害 4553 防禦 2690 CD1(敵人會隨機腐蝕 2 個位置，該位置的符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6226,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1195","monsterDesc":"HP 2278440 傷害 9274 防禦 3190 CD2(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6227,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1130","monsterDesc":"HP 1536460 傷害 11966 防禦 5620 進場CD3 固定CD1(五屬盾)","monsterExtraNum":null},
-            {"tosLevelEventId":6228,"levelLvDesc":"超級 體力 40 回合 9 經驗 5000","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1260","monsterDesc":"HP 3637270 傷害 9045 防禦 6810 CD1(暗鎖定 \u2027 消除減攻20%)","monsterExtraNum":null},
-            {"tosLevelEventId":6229,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)","roundName":"第 3 回合","roundExtraDesc":"","monsterNum":"720","monsterDesc":"HP 2894370 傷害 6797 防禦 2690 CD1(敵人會隨機腐蝕 2 個位置，該位置的符石一經觸碰，即時停止移動符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6230,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)","roundName":"第 6 回合","roundExtraDesc":"","monsterNum":"1195","monsterDesc":"HP 3735160 傷害 13843 防禦 3190 CD2(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)","monsterExtraNum":null},
-            {"tosLevelEventId":6231,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)","roundName":"第 8 回合","roundExtraDesc":"","monsterNum":"1130","monsterDesc":"HP 2518790 傷害 17860 防禦 5620 進場CD3 固定CD1(五屬盾)","monsterExtraNum":null},
-            {"tosLevelEventId":6232,"levelLvDesc":"精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)","roundName":"第 9 回合","roundExtraDesc":"","monsterNum":"1260","monsterDesc":"HP 5962740 傷害 14828 防禦 6810 CD1(暗鎖定 \u2027 消除減攻20%)","monsterExtraNum":null}
-        ],"helpImgUrl":"http:\/\/i.imgur.com\/2kGTqWE.jpg","helpHighImgUrl":"http:\/\/i.imgur.com\/WjuVl1d.jpg"},
-    {"tosLevelSummaryId":492,"levelListName":"碑紋秘力的波動","bossNum":"287","levelName":"空無一物的鎧甲","levelDesc":"特別關卡-一次通關限定","onlineTime":"2017-03-20 19:40:00.0","offlineTime":"2020-03-28 00:00:00.0","eventStartTime":"2017-03-20 19:40:00.0","eventEndTime":"2020-03-28 00:00:00.0",
-        "tosLevelEvents":[
-            {"tosLevelEventId":6337,"levelLvDesc":"體力 10 回合 2 經驗 500","roundName":"第 1 回合","roundExtraDesc":"","monsterNum":"839,839,839","monsterDesc":"HP 18320 傷害 1240 防禦 180 進場CD4 固定CD3,HP 18320 傷害 1240 防禦 180 進場CD2 固定CD3,HP 18320 傷害 1240 防禦 180 CD3","monsterExtraNum":null},
-            {"tosLevelEventId":6338,"levelLvDesc":"體力 10 回合 2 經驗 500","roundName":"第 2 回合","roundExtraDesc":"","monsterNum":"287","monsterDesc":"HP 240000 傷害 3900 防禦 240 CD3(強化盾)","monsterExtraNum":null}
-        ],"helpImgUrl":null,"helpHighImgUrl":null}
+  {
+    "tosLevelSummaryId": 523,
+    "tosLevelBannerUrl": "http://d3jagfr1ku3qj3.cloudfront.net/2017/11/185_FB_828X315_ZH.jpg",
+    "levelListName": "三教頂峰",
+    "bossNum": "1514",
+    "levelName": "三尺秋水塵不染 天下無雙",
+    "levelDesc": "全新任務",
+    "onlineTime": "2017-11-27 00:00:00.0",
+    "offlineTime": "2017-12-19 00:00:00.0",
+    "eventStartTime": "2017-12-01 00:00:00.0",
+    "eventEndTime": "2017-12-19 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6613,
+        "levelLvDesc": "初級 體力 10 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1514",
+        "monsterDesc": "HP 285520 傷害 2092 防禦 2490 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6614,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1041",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6615,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1514",
+        "monsterDesc": "HP 1057510 傷害 4193 防禦 2490 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6616,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1191",
+        "monsterDesc": "HP 2808970 傷害 4128 防禦 5620 CD2(越攻越強)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6617,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1041",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6618,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1514",
+        "monsterDesc": "HP 3916690 傷害 7751 防禦 7490 CD1無(1658)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6619,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1191",
+        "monsterDesc": "HP 4192490 傷害 6025 防禦 5620 CD2( [越攻越強][若受到非強化符石的攻擊 [包括主動技]，敵人回復相等於該攻擊傷害的血量])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6620,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1041",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6621,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1514",
+        "monsterDesc": "HP 5845810 傷害 11569 防禦 7490 CD1(召喚師需要累積消除 15 粒水符石，才會對敵人造成攻擊傷害。 當受到敵人攻擊後，敵人會隨機鎖定場上 4 粒符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 10% [發動龍刻脈動會視作消除場上的鎖定符石])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6622,
+        "levelLvDesc": "菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1191",
+        "monsterDesc": "HP 6257460 傷害 8962 防禦 5620 CD2( [越攻越強][若受到非強化符石的攻擊 [包括主動技]，敵人回復相等於該攻擊傷害的血量])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6623,
+        "levelLvDesc": "菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1041",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，水屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6624,
+        "levelLvDesc": "菁英  體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1514",
+        "monsterDesc": "HP 8725100 傷害 16268 防禦 7490 CD1(召喚師需要累積消除 15 粒水符石，才會對敵人造成攻擊傷害。 當受到敵人攻擊後，敵人會隨機鎖定場上 4 粒符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 10% [發動龍刻脈動會視作消除場上的鎖定符石])",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "http://i.imgur.com/Vz0w2Ay.jpg",
+    "helpHighImgUrl": "http://i.imgur.com/8UXLQeA.jpg"
+  },
+  {
+    "tosLevelSummaryId": 527,
+    "tosLevelBannerUrl": "http://d3jagfr1ku3qj3.cloudfront.net/2017/11/185_FB_828X315_ZH.jpg",
+    "levelListName": "上古七星之主",
+    "bossNum": "1517",
+    "levelName": "上古七星之主",
+    "levelDesc": "地獄級關卡",
+    "onlineTime": "2017-11-27 00:00:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-12-01 22:00:00.0",
+    "eventEndTime": "2017-12-04 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6630,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1504,1504,1504",
+        "monsterDesc": "HP 2356370 傷害 16273 防禦 730 進場CD4 固定CD3,HP 2356370 傷害 16273 防禦 730 進場CD2 固定CD3,HP 2356370 傷害 16273 防禦 730 CD3",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6631,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "238",
+        "monsterDesc": "HP 4621250 傷害 14731 防禦 3820 CD2(突擊 ‧ 攻後雙重電擊 ‧ 復活變強)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6632,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "979",
+        "monsterDesc": "HP 11965890 傷害 9030 防禦 7690 CD1(消除心符石的連擊 [Combo] 會令全隊的攻擊無效，消除的心符石連擊 [Combo] 愈多，敵人的連擊次數愈多。連擊 [Combo] 只計算首批消除的符石。每回合移動符石前，敵人會電擊 3 粒心符石；如有符石被電擊而未消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6633,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1184,1184",
+        "monsterDesc": "[第一條血]HP 3071750 傷害 100 防禦 9170 CD1(強化光暗盾 ‧ 扣血90%),[第二條血]HP 18316570 傷害  16095 防禦 780000 CD1([附加技能清除重置][2秒轉珠])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6634,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1319",
+        "monsterDesc": "HP 7543260 傷害 15958 防禦 5620 CD2(敵人會在 CD 2 時射擊一直行的符石，並在 CD 1 時射擊一橫行的符石，被射擊的符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6635,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1517,1517",
+        "monsterDesc": "[第一條血]HP 14241430 傷害 17563 防禦 19320 CD1(妖龍剋制200% ‧ 首回光電擊 ‧ 無法控制),[第二條血]HP 43965960 傷害  28342 防禦 19320 CD1( 附加消除 ‧ 強化盾 ‧ 非強化傷害吸收 ‧ 無視減傷)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "https://i.imgur.com/o7QJsB1.jpg",
+    "helpHighImgUrl": "https://i.imgur.com/0XX28CA.jpg"
+  },
+  {
+    "tosLevelSummaryId": 529,
+    "levelListName": "疏樓更迭 龍麟不減風采",
+    "bossNum": "1515",
+    "levelName": "疏樓更迭 龍麟不減風采",
+    "levelDesc": "高級-通關Clear 魔法石 1 顆",
+    "onlineTime": "2017-11-27 00:00:00.0",
+    "offlineTime": "2017-12-19 00:00:00.0",
+    "eventStartTime": "2017-12-01 00:00:00.0",
+    "eventEndTime": "2017-12-19 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6648,
+        "levelLvDesc": "初級 體力 10 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1515",
+        "monsterDesc": "HP 281930 傷害 2146 防禦 2320 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6649,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1042",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6650,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1515",
+        "monsterDesc": "HP 1044230 傷害 4248 防禦 2320 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6651,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1224",
+        "monsterDesc": "HP 2332250 傷害 7161 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6652,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1042",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6653,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1515",
+        "monsterDesc": "HP 3867480 傷害 7823 防禦 7320 CD1無(1662)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6654,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1224",
+        "monsterDesc": "HP 3677980 傷害 10688 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6655,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1042",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6656,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1515",
+        "monsterDesc": "HP 5772370 傷害 11731 防禦 7320 CD1(累積15+火符石盾 ‧ 雙重燃燒10%)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6657,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1224",
+        "monsterDesc": "HP 5486540 傷害 15953 防禦 5980 進場CD3 固定CD1(與敵人相同屬性的符石，拼圖盾[可連同形狀外的符石])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6658,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1042",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，火屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6659,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1515",
+        "monsterDesc": "HP 8615480 傷害 16315 防禦 7320 CD1(累積15+火符石盾 ‧ 雙重燃燒10%)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "http://i.imgur.com/uoH6Rb3.jpg",
+    "helpHighImgUrl": "http://i.imgur.com/Z7aFuH4.jpg"
+  },
+  {
+    "tosLevelSummaryId": 531,
+    "levelListName": "無法觸摸的冷豔",
+    "bossNum": "1519",
+    "levelName": "無法觸摸的冷豔",
+    "levelDesc": "地獄級關卡",
+    "onlineTime": "2017-11-27 00:00:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-12-01 22:00:00.0",
+    "eventEndTime": "2017-12-04 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6663,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1505,1505,1505",
+        "monsterDesc": "HP 1769520 傷害 10433 防禦 690 CD2,HP 1769520 傷害 10433 防禦 690 進場CD3 固定CD2(首回合敵人會將龍脈儀存滿),HP 1769520 傷害 10433 防禦 690 CD2",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6664,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1099",
+        "monsterDesc": "HP 5135870 傷害 9862 防禦 3370 CD1(每回合以指定位置 [綠的漩渦] 的符石開始轉珠及在指定位置 [紅的漩渦] 結束轉珠，才會發動攻擊和回復)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6665,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1130",
+        "monsterDesc": "HP 10837240 傷害 39127 防禦 8130 CD3([強化符石盾][敵人死亡後，所有符石轉化為隱藏符石])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6666,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1513,1513",
+        "monsterDesc": "[第一條血]HP 2982380 傷害 14178 防禦 13490 進場CD3 固定CD1(首回合敵人會永久封鎖所有成員的主動技能。召喚師需要累積消除 20 粒或以上、與敵人屬性相剋的符石 [不受轉換屬性技能影響]，才會對敵人造成攻擊傷害。如果達成上述條件，敵人會在 CD 0 時重置符石數目；反之，CD 0 時敵人會發動攻擊。敵人會無視所有控制技能),[第二條血]HP 9026370 傷害  7825 防禦 13490 CD1(首回合敵人會電擊場上所有光符石；如有符石被電擊而未消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石。敵人會在 1 回合內連續攻擊 2 次)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6667,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1245",
+        "monsterDesc": "HP 11321980 傷害 12796 防禦 9720 CD1(首回合敵人會封鎖召喚師的神族成員的主動技能，召喚師隊伍有神族成員時，敵人攻擊力提升)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6668,
+        "levelLvDesc": "體力 50 回合 6 經驗 5000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1519,1519",
+        "monsterDesc": "[第一條血]HP 3016540 傷害 10100 防禦 18740 CD1((98回3秒轉珠) ‧ 首消隨機Combo追擊盾 ‧ 轉),[第二條血]HP 37671860 傷害  20956 防禦 18740 CD1(魔族禁錮 ‧ 魔族剋制 ‧ 攻 ‧ 同屬防禦90% ‧ 半血下回隱藏圍城)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "https://i.imgur.com/vpJXHaI.jpg",
+    "helpHighImgUrl": "https://i.imgur.com/Jse0SdG.jpg"
+  },
+  {
+    "tosLevelSummaryId": 532,
+    "levelListName": "殺生為護生 斬業非斬",
+    "bossNum": "1516",
+    "levelName": "殺生為護生 斬業非斬",
+    "levelDesc": "高級-通關Clear 魔法石 1 顆",
+    "onlineTime": "2017-11-27 00:00:00.0",
+    "offlineTime": "2017-12-19 00:00:00.0",
+    "eventStartTime": "2017-12-01 00:00:00.0",
+    "eventEndTime": "2017-12-19 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6669,
+        "levelLvDesc": "初級 體力 10 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1516",
+        "monsterDesc": "HP 302720 傷害 2037 防禦 2890 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6670,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1043",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6671,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1516",
+        "monsterDesc": "HP 1137240 傷害 4018 防禦 2890 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6672,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1323",
+        "monsterDesc": "HP 2851390 傷害 5331 防禦 6140 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會反擊自身 100% 攻擊傷害)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6673,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1043",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6674,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1516",
+        "monsterDesc": "HP 4052590 傷害 6296 防禦 7890 CD1(累積10+木符石盾 ‧ 攻後回復減少20% ‧ 回復遞減)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6675,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1323",
+        "monsterDesc": "HP 4255810 傷害 7956 防禦 6140 CD2(無視減傷 ‧ 強化盾 ‧ 反擊100% ‧ 雙重風化3000 ‧ 先)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6676,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1043",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6677,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1516",
+        "monsterDesc": "HP 6197960 傷害 9398 防禦 7890 CD1(累積15+木符石盾 ‧ 攻後回復減少20% ‧ 回復遞減)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6678,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1323",
+        "monsterDesc": "HP 6351970 傷害 11876 防禦 6140 CD2(無視減傷 ‧ 強化盾 ‧ 反擊100% ‧ 雙重風化3000 ‧ 先)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6679,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1043",
+        "monsterDesc": "HP 100 傷害 100 防禦 10 CD1(7 回合內，木屬性成員的攻擊力提升 2 倍。敵人下回合會扣除自身生命力 100%，期間不會受到任何攻擊傷害及無視所有控制技能)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6680,
+        "levelLvDesc": "菁英 體力 50 回合 8(必須擁有並通過超級難度才可進入)",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1516",
+        "monsterDesc": "HP 9074180 傷害 14027 防禦 7890 CD1(累積15+木符石盾 ‧ 攻後回復減少20% ‧ 回復遞減)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "http://i.imgur.com/5a9gZIK.jpg",
+    "helpHighImgUrl": "http://i.imgur.com/pBYRK5l.jpg"
+  },
+  {
+    "tosLevelSummaryId": 572,
+    "tosLevelBannerUrl": "http://d3jagfr1ku3qj3.cloudfront.net/2017/11/185_FB_828X315_ZH.jpg",
+    "levelListName": "氣勢磅礡的刺雨",
+    "bossNum": "1622",
+    "levelName": "氣勢磅礡的刺雨",
+    "levelDesc": "特別挑戰",
+    "onlineTime": "2017-11-26 20:00:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-11-27 00:00:00.0",
+    "eventEndTime": "2017-12-05 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 7031,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "67,71,67",
+        "monsterDesc": "HP 107580 傷害 4785 防禦 820 進場CD3 固定CD2(4Combo盾‧首消),HP 116770 傷害 4750 防禦 730 CD2(首回合會將召喚師所有主動技能 CD 變 0),HP 107580 傷害 4785 防禦 820 進場CD3 固定CD2(4Combo盾‧首消)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7032,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1612",
+        "monsterDesc": "HP 899340 傷害 5691 防禦 4910 CD1(隨機Combo盾‧首消)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7033,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "336,334",
+        "monsterDesc": "HP 437830 傷害 4547 防禦 2360 CD1(雙體共生),HP 423380 傷害 4558 防禦 2430 CD1(雙體共生)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7034,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1602,1602",
+        "monsterDesc": "[第一條血]HP 2429070 傷害 8245 防禦 7250 CD1(消除水屬性的連擊 [Combo] 會令全隊的攻擊無效，消除的水屬性連擊 [Combo] 愈多，敵人的連擊次數愈多。連擊 [Combo] 只計算首批消除的符石),[第二條血]HP 3495550 傷害  4895 防禦 7250 CD1(首回合敵人會先制把其中一種符石轉化為水符石。 當首次受到敵人攻擊時，場上隨機一橫行的符石會轉化為水符石；第二次受到敵人 攻擊時，場上隨機一直行的符石會轉化為水符石。以上攻擊循環周而復始。 敵人生命力愈低時，連擊次數愈多)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7035,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1343",
+        "monsterDesc": "HP 2708980 傷害 12306 防禦 5960 CD2(首回合鎖定所有符石，其後每回合鎖定心符石；鎖定符石未被消除，敵人回復相等該回合所造成的屬性傷害)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7036,
+        "levelLvDesc": "入門級 體力 30 回合 6 經驗 1500",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1622,1622",
+        "monsterDesc": "[第一條血]HP 2473470 傷害 18739 防禦 3890 CD3(敵人會令火屬性以外的攻擊傷害減少至 25%。敵人只會受到強化符石的攻擊傷害，若受到非強化符石的攻擊，敵人會反擊自身 25% 攻擊傷害。當受到敵人攻擊時，3 回合內每移動 1 步，對召喚師造成 500 點傷害),[第二條血]HP 4255220 傷害  100 防禦 1000000 CD1(首回合敵人發動攻擊時會扣除召喚師 25% 生命力；敵人攻擊次數愈多時，攻擊力會持續提升)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7037,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "67,71,67",
+        "monsterDesc": "HP 160580 傷害 7142 防禦 820 進場CD3 固定CD2(5Combo盾‧首消),HP 174290 傷害 7090 防禦 730 CD2(首回合會將所有成員技能CD及累積戰鬥回合數重置),HP 160580 傷害 7142 防禦 820 進場CD3 固定CD2(5Combo盾‧首消)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7038,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1612",
+        "monsterDesc": "HP 1342310 傷害 8495 防禦 4910 CD1([98回3秒轉珠] ‧ [首消隨機Combo追擊盾 ‧ 轉])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7039,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "336,334",
+        "monsterDesc": "HP 653480 傷害 6787 防禦 2360 CD1(雙體共生),HP 631920 傷害 6803 防禦 2430 CD1(雙體共生)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7040,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1602,1602",
+        "monsterDesc": "[第一條血]HP 3625490 傷害 12307 防禦 7250 CD1(敵轉水 ‧ 隨機轉水 ‧ 首消水追擊零化 ‧ 無法控制),[第二條血]HP 5217250 傷害  7306 防禦 7250 CD1(首回合敵人會先制把其中一種符石轉化為水符石。 當首次受到敵人攻擊時，場上隨機一橫行的符石會轉化為水符石；第二次受到敵人 攻擊時，場上隨機一直行的符石會轉化為水符石。以上攻擊循環周而復始。 敵人生命力愈低時，連擊次數愈多)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7041,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1343",
+        "monsterDesc": "HP 4043260 傷害 18368 防禦 5960 CD2(敵人會無視所有減傷效果和意志技能。 首回合敵人會鎖定所有符石，其後每回合會鎖定場上的心符石；如有鎖定的符石未 被消除時，敵人回復相等於該回合召喚師所造成的傷害的血量)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7042,
+        "levelLvDesc": "戰慄級 體力 30 回合 6 經驗 5000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1622,1622",
+        "monsterDesc": "[第一條血]HP 3691750 傷害 27970 防禦 3890 CD3(敵人會令火屬性以外的攻擊傷害減少至 5%。敵人只會受到強化符石的攻擊傷害，若受到非強化符石的攻擊，敵人會反擊自身 25% 攻擊傷害。當受到敵人攻擊時，3 回合內每移動 1 步，對召喚師造成 1000 點傷害),[第二條血]HP 6351080 傷害  100 防禦 10000000 CD1(每回合敵人發動攻擊時會扣除召喚師 100% 生命力 [無視所有減傷效果和意志技能])",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "https://i.imgur.com/zaJynz1.jpg",
+    "helpHighImgUrl": "https://i.imgur.com/xDy6DO5.jpg"
+  },
+  {
+    "tosLevelSummaryId": 569,
+    "levelListName": "秋風裡破謎三十",
+    "bossNum": "1602",
+    "levelName": "秋風裡破謎三十",
+    "levelDesc": "特別挑戰",
+    "onlineTime": "2017-11-19 20:30:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-11-20 00:00:00.0",
+    "eventEndTime": "2017-12-03 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 7017,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "(隨機出現2隻)",
+        "monsterNum": "256,257,258,259,260",
+        "monsterDesc": "HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8,HP 12000 傷害 11111 防禦 111 CD 8",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7018,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1341",
+        "monsterDesc": "HP 1240980 傷害 6742 防禦 1590 CD2(2秒轉珠)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7019,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "337,336",
+        "monsterDesc": "HP 830270 傷害 6013 防禦 830 進場CD1 固定CD2(當首次受到攻擊時，隨機一直行轉化為光符石；第二次受到攻擊時，隨機一橫行轉化為光符石。周而復始),HP 831950 傷害 5944 防禦 780 CD2(首次受到攻擊時，一橫行轉木，二次受到攻擊時，一直行轉木，周而復始)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7020,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1610",
+        "monsterDesc": "HP 2792640 傷害 8986 防禦 2560 CD2(每回合以指定位置 [綠的漩渦] 的符石開始轉珠及在指定位置 [紅的漩渦] 結束轉珠，才會發動攻擊和回復)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7021,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1612",
+        "monsterDesc": "HP 1831460 傷害 5637 防禦 2840 CD1(隨機Combo盾‧首消)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7022,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1608",
+        "monsterDesc": "HP 2019730 傷害 2624 防禦 2290 CD1(越攻越強)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7023,
+        "levelLvDesc": "體力 15 回合 7 經驗 1500",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1602",
+        "monsterDesc": "HP 4359210 傷害 6046 防禦 3870 CD1(敵轉水 ‧ 隨機轉水 ‧ 禁消心 ‧ 首消水追擊零化)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "https://i.imgur.com/MqfjWH1.jpg",
+    "helpHighImgUrl": "https://i.imgur.com/ON5p81s.jpg"
+  },
+  {
+    "tosLevelSummaryId": 570,
+    "levelListName": "對愛麗絲的執著",
+    "bossNum": "1599",
+    "levelName": "對愛麗絲的執著",
+    "levelDesc": "高級-通關Clear 魔法石 1 顆",
+    "onlineTime": "2017-11-19 20:00:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-11-20 00:00:00.0",
+    "eventEndTime": "2017-12-04 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 7005,
+        "levelLvDesc": "初級 體力 10 回合 5",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1599",
+        "monsterDesc": "HP 703502 傷害 2005 防禦 7990 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7006,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "687",
+        "monsterDesc": "HP 390280 傷害 5143 防禦 6240 CD2",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7007,
+        "levelLvDesc": "中級 體力 20 回合 6",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1599",
+        "monsterDesc": "HP 781310 傷害 3486 防禦 7990 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7008,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1320",
+        "monsterDesc": "HP 1960760 傷害 3584 防禦 7360 CD1(攻後即時雙重隱藏)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7009,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "687",
+        "monsterDesc": "HP 2556610 傷害 3878 防禦 6240 CD2(越戰越強‧銀)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7010,
+        "levelLvDesc": "高級 體力 30 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1599",
+        "monsterDesc": "HP 3708570 傷害 6696 防禦 7990 CD1(光暗盾)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7011,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1320",
+        "monsterDesc": "HP 2926510 傷害 5349 防禦 7360 CD1(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7012,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "687",
+        "monsterDesc": "HP 3815830 傷害 5789 防禦 6240 CD2(越戰越強‧金)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7013,
+        "levelLvDesc": "Extra 體力 40 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1599",
+        "monsterDesc": "HP 5535180 傷害 9994 防禦 7990 CD1(敵人會將移動符石時所觸碰的符石轉化為隱藏符石。同時消除光符石及暗符石才會對敵人造成攻擊傷害)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7014,
+        "levelLvDesc": "菁英級 體力 50 回合 8",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1320",
+        "monsterDesc": "HP 4367930 傷害 7985 防禦 7360 CD1(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7015,
+        "levelLvDesc": "菁英級 體力 50 回合 8",
+        "roundName": "第 7 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "687",
+        "monsterDesc": "HP 5695280 傷害 8641 防禦 6240 CD2(越戰越強‧金)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 7016,
+        "levelLvDesc": "菁英級 體力 50 回合 8",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1599",
+        "monsterDesc": "HP 8261470 傷害 14917 防禦 7990 CD1(敵人會持續將移動符石時所觸碰的符石轉化為隱藏符石。同時消除光符石及暗符石才會對敵人造成攻擊傷害)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "https://i.imgur.com/ielMiwe.jpg",
+    "helpHighImgUrl": "https://i.imgur.com/1yHBQpc.jpg"
+  },
+  {
+    "tosLevelSummaryId": 462,
+    "levelListName": "物靈附身 ‧ 光",
+    "bossNum": "1259",
+    "levelName": "物靈附身 ‧ 光",
+    "levelDesc": "高級-通關Clear 魔法石 1 顆",
+    "onlineTime": "2017-10-30 00:00:00.0",
+    "offlineTime": "2017-12-04 00:00:00.0",
+    "eventStartTime": "2017-11-20 00:00:00.0",
+    "eventEndTime": "2017-12-04 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6072,
+        "levelLvDesc": "初級 體力 10 回合 4 經驗 500",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1259",
+        "monsterDesc": "HP 163610 傷害 1417 防禦 4110 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6073,
+        "levelLvDesc": "中級 體力 20 回合 6 經驗 1500",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "733",
+        "monsterDesc": "HP 381130 傷害 4482 防禦 1890 CD2",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6074,
+        "levelLvDesc": "中級 體力 20 回合 6 經驗 1500",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1259",
+        "monsterDesc": "HP 605990 傷害 2927 防禦 4110 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6075,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "719",
+        "monsterDesc": "HP 1134450 傷害 5497 防禦 1730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6076,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "724",
+        "monsterDesc": "HP 896440 傷害 3043 防禦 2560 CD1(+6Combo盾‧攻)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6077,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1129",
+        "monsterDesc": "HP 1411620 傷害 6242 防禦 1890 CD2(每回合移動符石前，隨機把 2 粒符石風化，風化符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6078,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1259",
+        "monsterDesc": "HP 2244140 傷害 5453 防禦 4110 CD1(光鎖定 ‧ 消除減攻10%)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6079,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "719",
+        "monsterDesc": "HP 1859760 傷害 8204 防禦 3730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6080,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "724",
+        "monsterDesc": "HP 1469580 傷害 4542 防禦 4560 CD1(+7Combo盾[少1Combo追打1下])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6081,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1129",
+        "monsterDesc": "HP 2324030 傷害 9317 防禦 3890 CD2([附加技能清除重置][雙重風化3000先])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6082,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1259",
+        "monsterDesc": "HP 3679360 傷害 8941 防禦 7110 CD1(光鎖定 ‧ 消除減攻20%)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6083,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "719",
+        "monsterDesc": "HP 3048790 傷害 12246 防禦 3730 CD2(敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 25% 攻擊傷害 2 次)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6084,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "724",
+        "monsterDesc": "HP 2409160 傷害 6780 防禦 4560 CD1(+7Combo盾[少1Combo追打1下])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6085,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1129",
+        "monsterDesc": "HP 3793680 傷害 13907 防禦 3890 CD2([附加技能清除重置][雙重風化3000先])",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6086,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得閃靈照相機及通過超級關卡才會開放)",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1259",
+        "monsterDesc": "HP 6031750 傷害 14658 防禦 7110 CD1(光鎖定 ‧ 消除減攻20%)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "http://i.imgur.com/1yBNFNp.jpg",
+    "helpHighImgUrl": "http://i.imgur.com/dlGbDEA.jpg"
+  },
+  {
+    "tosLevelSummaryId": 480,
+    "levelListName": "物靈附身 ‧ 暗",
+    "bossNum": "1260",
+    "levelName": "物靈附身 ‧ 暗",
+    "levelDesc": "高級-通關Clear 魔法石 1 顆",
+    "onlineTime": "2017-10-30 00:00:00.0",
+    "offlineTime": "2017-12-11 00:00:00.0",
+    "eventStartTime": "2017-11-27 00:00:00.0",
+    "eventEndTime": "2017-12-11 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6218,
+        "levelLvDesc": "初級 體力 10 回合 4 經驗 500",
+        "roundName": "第 4 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1260",
+        "monsterDesc": "HP 161740 傷害 1458 防禦 3810 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6219,
+        "levelLvDesc": "中級 體力 20 回合 6 經驗 1500",
+        "roundName": "第 5 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "735",
+        "monsterDesc": "HP 353050 傷害 5371 防禦 2620 進場CD3 固定CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6220,
+        "levelLvDesc": "中級 體力 20 回合 6 經驗 1500",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1260",
+        "monsterDesc": "HP 599050 傷害 3065 防禦 3810 CD1",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6221,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "720",
+        "monsterDesc": "HP 1076930 傷害 3051 防禦 690 CD1(敵人會隨機腐蝕 1 個位置，該位置的符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6222,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1195",
+        "monsterDesc": "HP 1389850 傷害 6214 防禦 1190 CD2(超大幅隨機掉落隱藏屬性的符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6223,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1130",
+        "monsterDesc": "HP 937240 傷害 8017 防禦 2620 進場CD3 固定CD1(三屬盾)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6224,
+        "levelLvDesc": "高級 體力 30 回合 9 經驗 3000",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1260",
+        "monsterDesc": "HP 2218730 傷害 5517 防禦 3810 CD1(暗鎖定 ‧ 消除減攻10%)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6225,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "720",
+        "monsterDesc": "HP 1765560 傷害 4553 防禦 2690 CD1(敵人會隨機腐蝕 2 個位置，該位置的符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6226,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1195",
+        "monsterDesc": "HP 2278440 傷害 9274 防禦 3190 CD2(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6227,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1130",
+        "monsterDesc": "HP 1536460 傷害 11966 防禦 5620 進場CD3 固定CD1(五屬盾)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6228,
+        "levelLvDesc": "超級 體力 40 回合 9 經驗 5000",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1260",
+        "monsterDesc": "HP 3637270 傷害 9045 防禦 6810 CD1(暗鎖定 ‧ 消除減攻20%)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6229,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)",
+        "roundName": "第 3 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "720",
+        "monsterDesc": "HP 2894370 傷害 6797 防禦 2690 CD1(敵人會隨機腐蝕 2 個位置，該位置的符石一經觸碰，即時停止移動符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6230,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)",
+        "roundName": "第 6 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1195",
+        "monsterDesc": "HP 3735160 傷害 13843 防禦 3190 CD2(敵人會將固定位置的符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6231,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)",
+        "roundName": "第 8 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1130",
+        "monsterDesc": "HP 2518790 傷害 17860 防禦 5620 進場CD3 固定CD1(五屬盾)",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6232,
+        "levelLvDesc": "精英級 體力 50 回合 9 經驗 6250(須取得纏身人偶及通過超級關卡才會開放)",
+        "roundName": "第 9 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "1260",
+        "monsterDesc": "HP 5962740 傷害 14828 防禦 6810 CD1(暗鎖定 ‧ 消除減攻20%)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": "http://i.imgur.com/2kGTqWE.jpg",
+    "helpHighImgUrl": "http://i.imgur.com/WjuVl1d.jpg"
+  },
+  {
+    "tosLevelSummaryId": 492,
+    "levelListName": "碑紋秘力的波動",
+    "bossNum": "287",
+    "levelName": "空無一物的鎧甲",
+    "levelDesc": "特別關卡-一次通關限定",
+    "onlineTime": "2017-03-20 19:40:00.0",
+    "offlineTime": "2020-03-28 00:00:00.0",
+    "eventStartTime": "2017-03-20 19:40:00.0",
+    "eventEndTime": "2020-03-28 00:00:00.0",
+    "tosLevelEvents": [
+      {
+        "tosLevelEventId": 6337,
+        "levelLvDesc": "體力 10 回合 2 經驗 500",
+        "roundName": "第 1 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "839,839,839",
+        "monsterDesc": "HP 18320 傷害 1240 防禦 180 進場CD4 固定CD3,HP 18320 傷害 1240 防禦 180 進場CD2 固定CD3,HP 18320 傷害 1240 防禦 180 CD3",
+        "monsterExtraNum": null
+      },
+      {
+        "tosLevelEventId": 6338,
+        "levelLvDesc": "體力 10 回合 2 經驗 500",
+        "roundName": "第 2 回合",
+        "roundExtraDesc": "",
+        "monsterNum": "287",
+        "monsterDesc": "HP 240000 傷害 3900 防禦 240 CD3(強化盾)",
+        "monsterExtraNum": null
+      }
+    ],
+    "helpImgUrl": null,
+    "helpHighImgUrl": null
+  }
 ],
 }
